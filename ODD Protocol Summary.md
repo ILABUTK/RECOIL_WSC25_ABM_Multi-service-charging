@@ -1,5 +1,5 @@
 
-# ODD Protocol Summary – RECOIL_WSC25_XW
+# ODD Protocol Summary
 
 ## 1. Overview
 

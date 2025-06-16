@@ -1,5 +1,4 @@
-# RECOIL_WSC25_XW
-WSC'25
+# RECOIL_WSC25
 
  - Experiment results are under folder "code"
     - main experment: simulation_updated.py
